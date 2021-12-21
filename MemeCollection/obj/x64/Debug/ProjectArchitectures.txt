@@ -1,0 +1,1 @@
+C:\Users\Carlos\Documents\GitHub\MeMeCollection\MemeCollection\MemeCollection.csproj;x64
