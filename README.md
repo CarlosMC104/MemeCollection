@@ -9,7 +9,7 @@ La siguiente aplicación contiene el prototipo de una red social, que contiene u
 Contiene todo el código y los recursos multimedia para la correcta ejecución de la aplicación. Para ello:
   1. Clona el repositorio con 
 ```
-git clone https://github.com/jalvarezz13/MeMeCollection
+git clone https://github.com/CarlosMC104/MeMeCollection
 ```
   2. Abrir <i>MemeCollection.sln</i> en Visual Studio.  <i>*(Puede que se necesite instalar UWP)</i>
   3. Ejecutar y jugar 🕹️
